@@ -1,6 +1,6 @@
 # FrontEnd-Task-2
 Deployed the FrontEnd-Task at 
-<a href="https://front-end-task-gud7k0l9e-harshav45.vercel.app/" target="_blank">FrontEnd task link</a>
+<a href="https://front-end-task-gud7k0l9e-harshav45.vercel.app/" target="_blank">front-end-task-gud7k0l9e-harshav45.vercel.app</a>
 # Images
 ## HOME PAGE
 ![Screenshot (15)](https://user-images.githubusercontent.com/72965089/158128172-6d18dad2-e3c0-48f9-80f9-682cbdaf36ff.png)
